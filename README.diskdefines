@@ -1,0 +1,9 @@
+#define DISKNAME  Linux Mint 22.1 "Xia" - Release amd64
+#define TYPE  binary
+#define TYPEbinary  1
+#define ARCH  var_architecture
+#define ARCHvar_architecture  1
+#define DISKNUM  1
+#define DISKNUM1  1
+#define TOTALNUM  0
+#define TOTALNUM0  1
