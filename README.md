@@ -1,2 +1,3 @@
 # Linux-Peppermint
-Inspired by Linux Mint with a few tweaks 
+ Linux Mint with a few tweaks 
+ all credits go to linux mint 
